@@ -1,7 +1,7 @@
 # techcrontab
 <img src="https://scontent-gmp1-1.xx.fbcdn.net/v/t39.30808-6/268786456_110404478182435_34759209790788281_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=ni9C80f3zgsAX_sTqZQ&_nc_ht=scontent-gmp1-1.xx&oh=00_AT--F0GfzvycgZBAgzW7Stnaj_l6V44I9ymYOpRdlPazsA&oe=61D62C72" width="40%" height="40%"/>
 
-## 회사 블로그 리스트 (A-Z, ㄱ-ㅎ 순)
+## 회사 블로그 리스트 (A-Z, ㄱ-ㅎ순)
 - [x] 11번가
 - [x] 44BITS: IT 뉴스, 클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스
 - [x] AI PLUS Tech Blog (이스트소프트)
@@ -32,16 +32,21 @@
 - [x] 게임빌컴투스플랫폼 기술블로그
 - [x] 그린랩스
 - [x] 네이버 클라우드 플랫폼 (NAVER Cloud Platform)
+- [x] [농심데이터시스템(NDS)](https://tech.cloud.nongshim.co.kr)
 - [x] 넷마블
 - [x] 다나와
 - [x] 당근마켓 팀블로그
 - [x] 락플레이스
 - [x] 레진 기술 블로그
+- [x] [마이리얼트립](https://medium.com/myrealtrip-product)
+- [x] [모두싸인](https://team.modusign.co.kr)
 - [x] 무신사
 - [x] 번개장터
 - [x] 뱅크샐러드 블로그
+- [x] [브랜디](http://labs.brandi.co.kr)
 - [x] 사람인
 - [x] 쏘카
+- [x] [숨고](https://medium.com/soomgo-tech)
 - [x] 스타일쉐어
 - [ ] 스티비
 - [x] 야놀자
@@ -62,6 +67,8 @@
 - [x] 코드쓰는사람
 - [x] 쿠팡 기술블로그 ? Coupang Technology Blog
 - [ ] 크몽
+- [x] [클라우드메이트](https://tech.cloudmt.co.kr)
+- [x] [클래스101](https://medium.com/class101)
 - [x] 토스 공식 브랜드 미디어, 토스 기술 블로그, (토스테크, 토스피드)
 - [x] 티몬의 개발이야기
 - [x] 핑퐁팀 블로그
