@@ -36,6 +36,7 @@
 - [x] 넷마블
 - [x] 다나와
 - [x] 당근마켓 팀블로그
+- [x] [데이블](https://teamdable.github.io)
 - [x] 락플레이스
 - [x] 레진 기술 블로그
 - [x] [마이리얼트립](https://medium.com/myrealtrip-product)
