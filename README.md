@@ -32,16 +32,19 @@
 - [x] 게임빌컴투스플랫폼 기술블로그
 - [x] 그린랩스
 - [x] 네이버 클라우드 플랫폼 (NAVER Cloud Platform)
-- [x] [농심데이터시스템(NDS)](https://tech.cloud.nongshim.co.kr)
+- [x] [네이버플레이스](https://medium.com/naver-place-dev)
 - [x] 넷마블
+- [x] [농심데이터시스템(NDS)](https://tech.cloud.nongshim.co.kr)
 - [x] 다나와
 - [x] 당근마켓 팀블로그
 - [x] [데이블](https://teamdable.github.io)
+- [x] [드림어스컴퍼니/FLO](https://www.blog-dreamus.com/)
 - [x] 락플레이스
 - [x] 레진 기술 블로그
 - [x] [마이리얼트립](https://medium.com/myrealtrip-product)
 - [x] [모두싸인](https://team.modusign.co.kr)
 - [x] 무신사
+- [x] [버즈빌](https://tech.buzzvil.com/)
 - [x] 번개장터
 - [x] 뱅크샐러드 블로그
 - [x] [브랜디](http://labs.brandi.co.kr)
@@ -62,10 +65,12 @@
 - [x] 잔디 블로그
 - [x] 조대협
 - [x] 직방
+- [x] [카카오스타일](https://devblog.croquis.com/ko/)
 - [ ] 카카오브레인
 - [x] 카카오엔터프라이즈 기술블로그 Tech&(테크앤)
 - [x] 컬리 기술 블로그
 - [x] 코드쓰는사람
+- [x] [콴다](https://blog.mathpresso.com/)
 - [x] 쿠팡 기술블로그 ? Coupang Technology Blog
 - [ ] 크몽
 - [x] [클라우드메이트](https://tech.cloudmt.co.kr)
