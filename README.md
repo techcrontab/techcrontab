@@ -43,7 +43,7 @@
 - [x] 레진 기술 블로그
 - [x] [마이리얼트립](https://medium.com/myrealtrip-product)
 - [x] [모두싸인](https://team.modusign.co.kr)
-- [x] 무신사
+- [x] [무신사](https://medium.com/musinsa-tech)
 - [x] [버즈빌](https://tech.buzzvil.com/)
 - [x] 번개장터
 - [x] 뱅크샐러드 블로그
