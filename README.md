@@ -5,10 +5,10 @@
 - [x] 11번가
 - [x] 44BITS: IT 뉴스, 클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스
 - [x] AI PLUS Tech Blog (이스트소프트)
-- [] [All of Software (전규현님)](http://www.allofsoftware.net/)
+- [ ] [All of Software (전규현님)](http://www.allofsoftware.net/)
 - [x] Amazon Web Services 한국 블로그
-- [] [Captain Pangyo - Articles](https://joshua1988.github.io/)
-- [] [Charsyam's Blog (강대명님)](https://charsyam.wordpress.com/)
+- [ ] [Captain Pangyo - Articles](https://joshua1988.github.io/)
+- [ ] [Charsyam's Blog (강대명님)](https://charsyam.wordpress.com/)
 - [x] D2 Blog
 - [x] DEVOCEAN
 - [x] DRAMA&COMPANY
@@ -17,7 +17,7 @@
 - [x] IBM Developer
 - [x] LINE ENGINNERING
 - [x] NHN Cloud Meetup
-- [] [Outsider's Dev Story](https://blog.outsider.ne.kr/)
+- [ ] [Outsider's Dev Story](https://blog.outsider.ne.kr/)
 - [x] Popit
 - [x] SK(주) C&C's TECH BLOG
 - [x] Spoqa tech blog
@@ -61,9 +61,9 @@
 - [x] 이동욱님 / 향로
 - [x] 이상한모임
 - [x] 인사이트 | 삼성SDS
-- [] [자바캔(Java Can Do IT)(최범균)](https://javacan.tistory.com/)
+- [ ] [자바캔(Java Can Do IT)(최범균님)](https://javacan.tistory.com/)
 - [x] 잔디 블로그
-- [] [조대협](https://bcho.tistory.com/)
+- [ ] [조대협](https://bcho.tistory.com/)
 - [x] 직방
 - [x] [카카오스타일](https://devblog.croquis.com/ko/)
 - [ ] 카카오브레인
