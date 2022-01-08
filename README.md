@@ -1,82 +1,74 @@
 # techcrontab
-<img src="https://scontent-gmp1-1.xx.fbcdn.net/v/t39.30808-6/268786456_110404478182435_34759209790788281_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=ni9C80f3zgsAX_sTqZQ&_nc_ht=scontent-gmp1-1.xx&oh=00_AT--F0GfzvycgZBAgzW7Stnaj_l6V44I9ymYOpRdlPazsA&oe=61D62C72" width="40%" height="40%"/>
+https://www.facebook.com/techcrontab
 
 ## 회사 블로그 리스트 (A-Z, ㄱ-ㅎ순)
-- [x] 11번가
-- [x] 44BITS: IT 뉴스, 클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스
-- [x] AI PLUS Tech Blog (이스트소프트)
-- [ ] [All of Software (전규현님)](http://www.allofsoftware.net/)
-- [x] Amazon Web Services 한국 블로그
-- [ ] [Captain Pangyo - Articles](https://joshua1988.github.io/)
-- [ ] [Charsyam's Blog (강대명님)](https://charsyam.wordpress.com/)
-- [x] D2 Blog
-- [x] DEVOCEAN
-- [x] DRAMA&COMPANY
-- [x] GS리테일
-- [x] Hyperconnect Tech Blog
-- [x] IBM Developer
-- [x] LINE ENGINNERING
-- [x] NHN Cloud Meetup
-- [ ] [Outsider's Dev Story](https://blog.outsider.ne.kr/)
-- [x] Popit
-- [x] SK(주) C&C's TECH BLOG
-- [x] Spoqa tech blog
-- [x] Tecoble / 우아한테크코스
-- [x] tech.kakao.com (카카오)
-- [x] TEDTalks 기술
-- [x] Riiid Techblog on Medium
-- [x] VCNC Engineering Blog
-- [x] WATCHA
-- [x] ZUM 기술 블로그
-- [x] 개발자스럽다
-- [x] 게임빌컴투스플랫폼 기술블로그
-- [x] 그린랩스
-- [x] 네이버 클라우드 플랫폼 (NAVER Cloud Platform)
-- [x] [네이버플레이스](https://medium.com/naver-place-dev)
-- [x] 넷마블
+- [x] [11번가](https://11st-tech.github.io/)
+- [x] [44BITS](https://www.44bits.io/ko)
+- [x] [AWS 한국 블로그](https://aws.amazon.com/ko/blogs/korea/)
+- [x] [DEVOCEAN](https://devocean.sk.com/)
+- [x] [DRAMA&COMPANY(리멤버)](https://blog.dramancompany.com/)
+- [x] [GS 리테일](https://gsretail.tistory.com/)
+- [ ] [IBM Developer](https://developer.ibm.com/)
+- [x] [LINE](https://engineering.linecorp.com/ko/blog/)
+- [x] [NAVER D2](https://d2.naver.com/home)
+- [x] [NHN](https://meetup.toast.com/)
+- [x] [Popit](https://www.popit.kr/)
+- [x] [SK(주) C&C](https://engineering-skcc.github.io/)
+- [x] [SOCAR](https://tech.socarcorp.kr/)
+- [ ] [TEDTalks](https://www.ted.com/talks)
+- [x] [VCNC](https://engineering.vcnc.co.kr/)
+- [x] [WATCHA](https://medium.com/watcha)
+- [x] [ZUM](https://zuminternet.github.io/)
+- [x] [강남언니](https://blog.gangnamunni.com/blog/)
+- [x] [개발자스럽다](https://blog.gaerae.com/)
+- [ ] [그린랩스](https://green-labs.github.io/)
+- [x] [네이버 클라우드 플랫폼](https://blog.naver.com/n_cloudplatform)
+- [x] [네이버 플레이스](https://medium.com/naver-place-dev)
+- [x] [넷마블](https://netmarble.engineering/)
 - [x] [농심데이터시스템(NDS)](https://tech.cloud.nongshim.co.kr)
-- [x] 다나와
-- [x] 당근마켓 팀블로그
+- [x] [다나와](https://danawalab.github.io/)
+- [x] [당근마켓](https://medium.com/daangn)
 - [x] [데이블](https://teamdable.github.io)
-- [x] [드림어스컴퍼니/FLO](https://www.blog-dreamus.com/)
-- [x] 락플레이스
-- [x] 레진 기술 블로그
+- [x] [드림어스컴퍼니(FLO)](https://www.blog-dreamus.com/)
+- [x] [락플레이스](https://ossonazure.tistory.com/)
+- [x] [레진](https://tech.lezhin.com/)
+- [x] [뤼이드](https://riiidtechblog.medium.com/)
 - [x] [마이리얼트립](https://medium.com/myrealtrip-product)
 - [x] [모두싸인](https://team.modusign.co.kr)
 - [x] [무신사](https://medium.com/musinsa-tech)
+- [x] [뱅크샐러드](https://blog.banksalad.com/)
+- [x] [버드뷰(화해)](http://blog.hwahae.co.kr/category/all/tech/)
 - [x] [버즈빌](https://tech.buzzvil.com/)
-- [x] 번개장터
-- [x] 뱅크샐러드 블로그
+- [x] [번개장터](https://medium.com/bunjang-tech-blog)
 - [x] [브랜디](http://labs.brandi.co.kr)
-- [x] 사람인
-- [x] 쏘카
+- [x] [사람인HR](https://saramin.github.io/)
+- [x] [삼성SDS](https://www.samsungsds.com/global/support/insights?lang=ko)
 - [x] [숨고](https://medium.com/soomgo-tech)
-- [x] 스타일쉐어
-- [ ] 스티비
-- [x] 야놀자
-- [x] 올리브영
-- [x] 요기요 기술블로그
-- [x] 우아한형제들 기술블로그 ≫ 피드
-- [x] 원티드 제품 팀블로그
-- [x] 이동욱님 / 향로
-- [x] 이상한모임
-- [x] 인사이트 | 삼성SDS
-- [ ] [자바캔(Java Can Do IT)(최범균님)](https://javacan.tistory.com/)
-- [x] 잔디 블로그
-- [ ] [조대협](https://bcho.tistory.com/)
-- [x] 직방
+- [x] [스타일쉐어](https://medium.com/styleshare)
+- [ ] [스티비](https://blog.stibee.com/dev-log/home)
+- [x] [스포카](https://spoqa.github.io/)
+- [x] [야놀자](https://medium.com/yanolja/)
+- [x] [올리브영](http://tech.oliveyoung.co.kr/)
+- [x] [요기요](https://techblog.yogiyo.co.kr/)
+- [x] [우아한테크코스](https://tecoble.techcourse.co.kr/)
+- [x] [우아한형제들](https://techblog.woowahan.com/)
+- [x] [원티드](https://medium.com/wantedjobs)
+- [x] [이상한모임](https://blog.weirdx.io/)
+- [x] [이스트소프트](https://blog.est.ai/)
+- [ ] [잔디](https://blog.jandi.com/ko/)
+- [x] [직방](https://medium.com/zigbang)
+- [x] [카카오](https://tech.kakao.com/)
 - [x] [카카오스타일](https://devblog.croquis.com/ko/)
-- [ ] 카카오브레인
-- [x] 카카오엔터프라이즈 기술블로그 Tech&(테크앤)
-- [x] 컬리 기술 블로그
-- [x] 코드쓰는사람
+- [ ] [카카오브레인](https://www.kakaobrain.com/blog)
+- [x] [카카오엔터프라이즈](https://tech.kakaoenterprise.com/)
+- [x] [컬리](https://helloworld.kurly.com/)
+- [x] [컴투스플랫폼](https://tech.com2us.com/)
 - [x] [콴다](https://blog.mathpresso.com/)
-- [x] 쿠팡 기술블로그 ? Coupang Technology Blog
-- [ ] 크몽
+- [x] [쿠팡](https://medium.com/coupang-engineering)
+- [ ] [크몽](https://blog.kmong.com/tech/home)
 - [x] [클라우드메이트](https://tech.cloudmt.co.kr)
 - [x] [클래스101](https://medium.com/class101)
-- [x] 토스 공식 브랜드 미디어, 토스 기술 블로그, (토스테크, 토스피드)
-- [x] 티몬의 개발이야기
-- [x] 핑퐁팀 블로그
-- [x] 화해
-- [x] 힐링페이퍼 강남언니
+- [x] [토스](https://toss.tech/)
+- [x] [티몬](https://blog.naver.com/tmondev)
+- [x] [핑퐁팀](https://blog.pingpong.us/)
+- [x] [하이퍼커넥트](https://hyperconnect.github.io/)
