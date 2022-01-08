@@ -33,6 +33,7 @@ https://www.facebook.com/techcrontab
 - [x] [락플레이스](https://ossonazure.tistory.com/)
 - [x] [레진](https://tech.lezhin.com/)
 - [x] [뤼이드](https://riiidtechblog.medium.com/)
+- [x] [리디](https://www.ridicorp.com/story-category/tech-blog/)
 - [x] [마이리얼트립](https://medium.com/myrealtrip-product)
 - [x] [모두싸인](https://team.modusign.co.kr)
 - [x] [무신사](https://medium.com/musinsa-tech)
