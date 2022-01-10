@@ -67,6 +67,7 @@ https://www.facebook.com/techcrontab
 - [x] [직방](https://medium.com/zigbang)
 - [x] [카카오](https://tech.kakao.com/)
 - [x] [카카오스타일](https://devblog.croquis.com/ko/)
+- [x] [카카오엔터테인먼트 FE](https://fe-developers.kakaoent.com/)
 - [ ] [카카오브레인](https://www.kakaobrain.com/blog)
 - [x] [카카오엔터프라이즈](https://tech.kakaoenterprise.com/)
 - [x] [컬리](https://helloworld.kurly.com/)
