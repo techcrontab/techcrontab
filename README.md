@@ -25,7 +25,7 @@ https://www.facebook.com/techcrontab
 - [x] [가비아](https://library.gabia.com/)
 - [x] [강남언니](https://blog.gangnamunni.com/blog/)
 - [x] [개발자스럽다](https://blog.gaerae.com/)
-- [ ] [그린랩스](https://green-labs.github.io/)
+- [x] [그린랩스](https://green-labs.github.io/)
 - [x] [네이버 클라우드 플랫폼](https://blog.naver.com/n_cloudplatform)
 - [x] [네이버 플레이스](https://medium.com/naver-place-dev)
 - [x] [넷마블](https://netmarble.engineering/)
