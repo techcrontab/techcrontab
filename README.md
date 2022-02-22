@@ -17,6 +17,7 @@ https://www.facebook.com/techcrontab
 - [x] [Popit](https://www.popit.kr/)
 - [x] [SK(주) C&C](https://engineering-skcc.github.io/)
 - [x] [SOCAR](https://tech.socarcorp.kr/)
+- [x] [SSG](https://medium.com/ssgtech)
 - [ ] [TEDTalks](https://www.ted.com/talks)
 - [x] [TOAST UI](https://ui.toast.com/weekly-pick/ko)
 - [x] [VCNC](https://engineering.vcnc.co.kr/)
