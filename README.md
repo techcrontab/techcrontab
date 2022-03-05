@@ -64,6 +64,7 @@ https://www.facebook.com/techcrontab
 - [x] [원티드](https://medium.com/wantedjobs)
 - [x] [이상한모임](https://blog.weirdx.io/)
 - [x] [이스트소프트](https://blog.est.ai/)
+- [x] [인프런](https://tech.inflab.com/)
 - [ ] [잔디](https://blog.jandi.com/ko/)
 - [x] [직방](https://medium.com/zigbang)
 - [x] [카카오](https://tech.kakao.com/)
