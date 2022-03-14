@@ -48,6 +48,7 @@ https://www.facebook.com/techcrontab
 - [x] [버드뷰(화해)](http://blog.hwahae.co.kr/category/all/tech/)
 - [x] [버즈빌](https://tech.buzzvil.com/)
 - [x] [번개장터](https://medium.com/bunjang-tech-blog)
+- [x] [베스핀글로벌 보안팀](https://medium.com/opsnow-security)
 - [x] [브랜디](http://labs.brandi.co.kr)
 - [x] [블로코(도큐사인)](https://www.blocko.io/resource/blog/)
 - [x] [비브로스](https://boostbrothers.github.io/)
