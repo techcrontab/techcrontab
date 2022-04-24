@@ -38,6 +38,7 @@ https://www.facebook.com/techcrontab
 - [x] [딜리셔스(신상마켓)](https://dealicious-inc.github.io/)
 - [x] [락플레이스](https://ossonazure.tistory.com/)
 - [x] [레진](https://tech.lezhin.com/)
+- [x] [롯데ON](https://techblog.lotteon.com/)
 - [x] [뤼이드](https://riiidtechblog.medium.com/)
 - [x] [리디](https://www.ridicorp.com/story-category/tech-blog/)
 - [x] [마이리얼트립](https://medium.com/myrealtrip-product)
