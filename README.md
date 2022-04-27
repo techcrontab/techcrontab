@@ -61,6 +61,7 @@ https://www.facebook.com/techcrontab
 - [ ] [스티비](https://blog.stibee.com/dev-log/home)
 - [x] [스포카](https://spoqa.github.io/)
 - [x] [스푼라디오](https://medium.com/spoontech)
+- [x] [아이디어스](https://medium.com/idus-tech)
 - [x] [야놀자](https://medium.com/yanolja/)
 - [x] [엔라이튼](https://medium.com/solarconnectdev)
 - [x] [올리브영](http://tech.oliveyoung.co.kr/)
