@@ -75,6 +75,7 @@ https://www.facebook.com/techcrontab
 - [x] [인프런](https://tech.inflab.com/)
 - [ ] [잔디](https://blog.jandi.com/ko/)
 - [x] [직방](https://medium.com/zigbang)
+- [x] [천명앤컴퍼니](https://medium.com/chunmyung)
 - [x] [카카오](https://tech.kakao.com/)
 - [x] [카카오스타일](https://devblog.croquis.com/ko/)
 - [x] [카카오엔터테인먼트 FE](https://fe-developers.kakaoent.com/)
