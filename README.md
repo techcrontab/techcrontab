@@ -101,6 +101,7 @@ https://www.facebook.com/techcrontab
 - [x] [토스](https://toss.tech/)
 - [x] [트렌비](https://tech.trenbe.com)
 - [x] [티몬](https://blog.naver.com/tmondev)
+- [x] [티빙](https://medium.com/tving-team)
 - [x] [핑퐁팀](https://blog.pingpong.us/)
 - [x] [하이퍼커넥트](https://hyperconnect.github.io/)
 - [x] [헤이딜러](https://medium.com/prnd)
