@@ -46,6 +46,7 @@ https://www.facebook.com/techcrontab
 - [x] [뤼이드](https://riiidtechblog.medium.com/)
 - [x] [리디](https://www.ridicorp.com/story-category/tech-blog/)
 - [x] [마이리얼트립](https://medium.com/myrealtrip-product)
+- [x] [메가존클라우드](https://medium.com/ctc-mzc)
 - [x] [메쉬코리아(부릉)](https://mesh.dev/)
 - [x] [모두싸인](https://team.modusign.co.kr)
 - [x] [무신사](https://medium.com/musinsa-tech)
