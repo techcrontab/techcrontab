@@ -105,4 +105,5 @@ https://www.facebook.com/techcrontab
 - [x] [티빙](https://medium.com/tving-team)
 - [x] [핑퐁팀](https://blog.pingpong.us/)
 - [x] [하이퍼커넥트](https://hyperconnect.github.io/)
+- [x] [한국신용데이터](https://www.blog.kcd.co.kr/)
 - [x] [헤이딜러](https://medium.com/prnd)
