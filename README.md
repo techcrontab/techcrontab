@@ -1,5 +1,7 @@
 # techcrontab
-https://www.facebook.com/techcrontab
+> 구독 좋아요 알림설정  
+> 페이스북 : https://www.facebook.com/techcrontab  
+> 트위터 : https://twitter.com/techcrontab
 
 ## 회사 블로그 리스트 (A-Z, ㄱ-ㅎ순)
 - [x] [11번가](https://11st-tech.github.io/)
