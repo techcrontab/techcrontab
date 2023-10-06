@@ -35,7 +35,7 @@
 - [x] [넷마블](https://netmarble.engineering/)
 - [x] [농심데이터시스템(NDS)](https://tech.cloud.nongshim.co.kr)
 - [x] [다나와](https://danawalab.github.io/)
-- [x] [당근마켓](https://medium.com/daangn)
+- [x] [당근](https://medium.com/daangn)
 - [x] [더핑크퐁컴퍼니](https://medium.com/pinkfong)
 - [x] [데브시스터즈](https://tech.devsisters.com/)
 - [x] [데이블](https://teamdable.github.io)
