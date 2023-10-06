@@ -14,6 +14,7 @@
 - [x] [GS 리테일](https://gsretail.tistory.com/)
 - [ ] [IBM Developer](https://developer.ibm.com/)
 - [x] [LINE](https://engineering.linecorp.com/ko/blog/)
+- [x] [LY Corporation](https://techblog.lycorp.co.jp/ja/blog)
 - [x] [NAVER D2](https://d2.naver.com/home)
 - [x] [NHN](https://meetup.toast.com/)
 - [x] [Popit](https://www.popit.kr/)
