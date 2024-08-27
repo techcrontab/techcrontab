@@ -19,6 +19,7 @@
 - [x] [NHN](https://meetup.toast.com/)
 - [x] [Popit](https://www.popit.kr/)
 - [x] [SK(주) C&C](https://engineering-skcc.github.io/)
+- [x] [SK 플래닛](https://techtopic.skplanet.com/)
 - [x] [SOCAR](https://tech.socarcorp.kr/)
 - [x] [SSG](https://medium.com/ssgtech)
 - [ ] [TEDTalks](https://www.ted.com/talks)
