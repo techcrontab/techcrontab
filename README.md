@@ -87,7 +87,7 @@
 - [x] [인프런](https://tech.inflab.com/)
 - [x] [일레클](https://medium.com/elecle-bike)
 - [ ] [잔디](https://blog.jandi.com/ko/)
-- [x] [잡코리아](https://medium.com/zigbang)
+- [x] [잡코리아](https://techblog.jobkorea.co.kr) 
 - [x] [직방](https://medium.com/zigbang)
 - [x] [천명앤컴퍼니](https://medium.com/chunmyung)
 - [x] [카카오](https://tech.kakao.com/)
